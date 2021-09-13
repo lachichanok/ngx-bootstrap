@@ -6,7 +6,7 @@
   "schematics": "./schematics/src/collection.json",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/valor-software/ngx-bootstrap.git"
+    "url": "git+git@github.com:lachichanok/ngx-bootstrap.git"
   },
   "bugs": {
     "url": "https://github.com/valor-software/ngx-bootstrap/issues"
