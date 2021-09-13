@@ -137,7 +137,8 @@ export function bsDatepickerReducer(state: BsDatepickerState = initialDatepicker
 
       const newState = {
         selectedRange: action.payload,
-        view: state.view
+        view: state.view,
+        hoveredDate: action.payload
       };
 
       const mode = state.view.mode;
